@@ -10,7 +10,7 @@ I build full-stack apps end-to-end, care about clean code, tests, and DX, and I�
 ---
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/alexander-andersson-43a6391a5/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/alexander-andersson-43a6391a5/])
 [![Email](https://img.shields.io/badge/Email-DB4437?logo=gmail&logoColor=white&style=for-the-badge)](alle7000.andersson@gmail.com)
 
 ---
@@ -67,7 +67,7 @@ Session-based gameplay, secure logic server-side, leaderboard, Jest/Cypress test
 A **multi-tenant SaaS booking platform** with role-based access, tenant separation, and subscription features.  
 Currently in active development — implementing core booking logic, authentication, and admin dashboards.  
 **Stack:** Next.js, Node/Express, TypeScript, MongoDB Atlas, Redis (caching), Stripe (planned for payments)  
-[![Repo](Private for now - Demo will be out soon)
+(Private Repo for now - Demo will be out soon)
 
 
 ---
@@ -81,4 +81,4 @@ Currently in active development — implementing core booking logic, authenticat
 ---
 
 ## Contact
-**Email:** alle7000.andersson@gmail.com • **LinkedIn:** [https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/alexander-andersson-43a6391a5/)
+**Email:** alle7000.andersson@gmail.com • **LinkedIn:** [https://www.linkedin.com/in/alexander-andersson-43a6391a5/]
