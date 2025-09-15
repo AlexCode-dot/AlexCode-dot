@@ -10,8 +10,8 @@ I build full-stack apps end-to-end, care about clean code, tests, and DX, and Iâ
 ---
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/alexander-andersson-43a6391a5/])
-[![Email](https://img.shields.io/badge/Email-DB4437?logo=gmail&logoColor=white&style=for-the-badge)](alle7000.andersson@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alexander-andersson-43a6391a5/)
+[![Email](https://img.shields.io/badge/Email-DB4437?logo=gmail&logoColor=white&style=for-the-badge)](mailto:alle7000.andersson@gmail.com)
 
 ---
 
@@ -31,6 +31,7 @@ I build full-stack apps end-to-end, care about clean code, tests, and DX, and Iâ
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 ![Handlebars](https://img.shields.io/badge/Handlebars-E34F26?logo=handlebarsdotjs&logoColor=white&style=for-the-badge)
+![EJS](https://img.shields.io/badge/EJS-8C8C8C?logo=javascript&logoColor=white&style=for-the-badge)
 
 <!-- Backend -->
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
@@ -39,6 +40,7 @@ I build full-stack apps end-to-end, care about clean code, tests, and DX, and Iâ
 
 <!-- DB / Infra -->
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black&style=for-the-badge)
@@ -49,6 +51,10 @@ I build full-stack apps end-to-end, care about clean code, tests, and DX, and Iâ
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+<!-- Collaboration & Design -->
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -81,4 +87,4 @@ Currently in active development â€” implementing core booking logic, authenticat
 ---
 
 ## Contact
-**Email:** alle7000.andersson@gmail.com â€¢ **LinkedIn:** [https://www.linkedin.com/in/alexander-andersson-43a6391a5/]
+**Email:** alle7000.andersson@gmail.com â€¢ **LinkedIn:** [alexander-andersson-43a6391a5](https://www.linkedin.com/in/alexander-andersson-43a6391a5/)
