@@ -1,6 +1,6 @@
 <div align="center">
 
-### About me
+# About me
 
 **Software engineering student** focused on **Java** and **JavaScript/TypeScript**.  
 I build full-stack apps end-to-end, care about clean code, tests, and DX, and I’m currently applying for **Software/Full-Stack Developer** roles.
@@ -82,7 +82,7 @@ Currently in active development, implementing core booking logic, authentication
 ## GitHub Stats
 
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexCode-dot&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCode-dot&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCode-dot&layout=compact&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=AlexCode-dot)
 
 ---
