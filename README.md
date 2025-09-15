@@ -1,6 +1,6 @@
 <div align="center">
 
-## About me
+### About me
 
 **Software engineering student** focused on **Java** and **JavaScript/TypeScript**.  
 I build full-stack apps end-to-end, care about clean code, tests, and DX, and I’m currently applying for **Software/Full-Stack Developer** roles.
@@ -63,17 +63,18 @@ I build full-stack apps end-to-end, care about clean code, tests, and DX, and I�
 ### Wordle-Style Game (TypeScript Backend)
 Session-based gameplay, secure logic server-side, leaderboard, Jest/Cypress tests.  
 **Stack:** React, Node/Express, TypeScript, Handlebars, MongoDB, Sessions.  
-[![Repo](https://img.shields.io/badge/Repo-000?logo=github&logoColor=white&style=for-the-badge)]([https://github.com/AlexCode-dot/your-wordle-repo](https://github.com/AlexCode-dot/Wordle-Game))
+[![Repo](https://img.shields.io/badge/Repo-000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/AlexCode-dot/Wordle-Game)
 
 ### KINO – Next.js Cinema Booking
 **Next.js + MongoDB Atlas** app with movies, screenings, admin CRUD, and auth.  
-[![Repo](https://img.shields.io/badge/Repo-000?logo=github&logoColor=white&style=for-the-badge)]([https://github.com/AlexCode-dot/KINO-NextJS](https://github.com/AlexCode-dot/KINO-NextJS))
+[![Repo](https://img.shields.io/badge/Repo-000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/AlexCode-dot/KINO-NextJS)
 
 ### SaaS Multi-Tenant Booking System (In Progress)
 A **multi-tenant SaaS booking platform** with role-based access, tenant separation, and subscription features.  
-Currently in active development — implementing core booking logic, authentication, and admin dashboards.  
+Currently in active development, implementing core booking logic, authentication, and admin dashboards.  
 **Stack:** Next.js, Node/Express, TypeScript, MongoDB Atlas, Redis (caching), Stripe (planned for payments)  
-(Private Repo for now - Demo will be out soon)
+![Private Repo](https://img.shields.io/badge/Repo-Private-lightgrey?style=for-the-badge)
+
 
 
 ---
