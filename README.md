@@ -81,9 +81,9 @@ Currently in active development, implementing core booking logic, authentication
 
 ## GitHub Stats
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexCode-dot&show_icons=true)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexCode-dot&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCode-dot&layout=compact&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=AlexCode-dot)
+![GitHub Streak](https://streak-stats.demolab.com?user=AlexCode-dot&theme=dark)
 
 ---
 
